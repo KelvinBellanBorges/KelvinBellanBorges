@@ -1,5 +1,5 @@
 ## Olá, bem vindo ao meu perfil, me chamo Kelvin e sou HEAD in Quality Assurance!
-<div align="center">
+<div align="length">
   <a href="https://github.com/KelvinBellanBorges">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KelvinBellanBorges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinBellanBorges&layout=compact&langs_count=7&theme=dracula"/>
