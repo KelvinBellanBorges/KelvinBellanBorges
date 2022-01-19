@@ -1,9 +1,9 @@
 ## Olá, bem vindo ao meu perfil, me chamo Kelvin e sou HEAD in Quality Assurance!
 
-<a 
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=KelvinBellanBorges&show_icons=true&theme=radical" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinBellanBorges&theme=radical&layout=compact](https://github.com/KelvinBellanBorges/github-readme-stats)" />
-</a>
+
+  <a><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=KelvinBellanBorges&show_icons=true&theme=radical" /></a>
+  <a><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinBellanBorges&theme=radical&layout=compact](https://github.com/KelvinBellanBorges/github-readme-stats)" /></a>
+
 ##
 
 <div style="display: inline_block"><br>
