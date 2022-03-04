@@ -5,6 +5,7 @@
   <a><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinBellanBorges&theme=radical&layout=compact](https://github.com/KelvinBellanBorges/github-readme-stats)" /></a>
 
 ##
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kelvin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
